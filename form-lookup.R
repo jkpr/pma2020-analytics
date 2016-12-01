@@ -276,7 +276,6 @@ form_prompts <- list(
         "room_doors",
         "room_walls_damage",
         "room_roof_damage",
-        "methods_selected",
         "stockout_note",
         "stock_implants",
         "stockout_days_implants",
