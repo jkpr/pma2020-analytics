@@ -988,7 +988,6 @@ form_prompts <- list(
         "qr_code",
         "qr_code_confirm",
         "qr_code_input",
-        "",
         "SQ13",
         "SQ14",
         "SQ15",
